@@ -25,4 +25,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ArjiJethin&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://miro.medium.com/v2/resize:fit:996/1*2X4kX8wkfbtBFu9Zack_IA.gif" height=100>
