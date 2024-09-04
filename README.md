@@ -87,9 +87,10 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-profile-trophy.vercel.app?username=ArjiJethin&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ArjiJethin&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ###
 ### 🔝 Top Contributed Repo
