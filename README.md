@@ -25,6 +25,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ArjiJethin&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<a href="https://youtu.be/dQw4w9WgXcQ?si=hLXYXbSuJlLEFMHG" target="_blank">
+<a href="https://youtu.be/dQw4w9WgXcQ?si=hLXYXbSuJlLEFMHG" target="_blank" title=":)">
 <img src="https://i.kym-cdn.com/photos/images/original/000/890/053/f87.gif" height=40>
 </a>
