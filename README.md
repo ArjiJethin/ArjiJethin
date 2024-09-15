@@ -80,8 +80,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ArjiJethin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img  src="https://miro.medium.com/v2/resize:fit:996/1*2X4kX8wkfbtBFu9Zack_IA.gif" height=180>
   <img src="https://streak-stats.demolab.com?user=ArjiJethin&locale=en&mode=daily&theme=material-palenight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArjiJethin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=material-palenight&hide_border=false" height="150" alt="languages graph"  />
-  
+  <a href="https://github-readme-stats.vercel.app/api/top-langs?username=ArjiJethin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=material-palenight&hide_border=false" target="_blank" title="Top Used Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArjiJethin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=material-palenight&hide_border=false" height="150" alt="languages graph" />
+  </a>  
   
 </div>
 
