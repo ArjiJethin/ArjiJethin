@@ -85,6 +85,8 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=arjijethin&theme=radical&show_icons=true" height="172vh" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=ArjiJethin&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="172vh" alt="streak graph"  />
+</div>
+  <div align="left">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjijethin&layout=donut&theme=radical&locale=en&hide_title=false&langs_count=12&hide_border=false" height="220vh" width="" alt="languages graph" />
 <img align="center" src="https://arjijethin.github.io/Web/Data/Images/mg.gif" height=220vh> 
 </div>
