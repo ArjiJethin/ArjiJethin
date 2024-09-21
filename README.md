@@ -1,3 +1,8 @@
+<div align="center">
+<img align="center" src="https://getwallpapers.com/wallpaper/full/1/c/0/15024.jpg" alt="Cover"  />
+  <div/>
+![Web-Developer-Header](https://arjijethin.github.io/Web/Data/Images/bg600.jpg)
+
 <h1 align="center">Bonjour 👋, I'm Arji Jethin</h1>
 
 
