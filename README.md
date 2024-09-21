@@ -1,12 +1,13 @@
-<h1 align="left">Bonjour 👋</h1>
+<h1 align="center">Bonjour 👋, I'm Arji Jethin</h1>
+
 
 ###
-
+<h3 align="center">A Coding Enthusiast, currently a Universtiy Student</h3>
 <h3 align="left">💫 About Me:</h3>
 
 ###
 
-<h4 align="left">🔭 I’m currently Sophomore student at Dayananda Sagar University<br>🌱 I’m currently learning HTML, CSS, JavaScript, JAVA, C, C++<br>📫 How to reach me: arjijethin.ac2207@gmail.com<br>⚡ Fun fact, I think I am Funny :)</h4>
+<h4 align="left">➤‎ ‎ 🔭 I’m currently Sophomore student at Dayananda Sagar University<br>➤‎ ‎ 🌱‎ I’m currently learning HTML, CSS, JavaScript, JAVA, C, C++<br>➤‎ ‎ 📫 How to reach me: arjijethin.ac2207@gmail.com<br>➤ ‎ ⚡ Fun fact, I think I am Funny :)</h4>
 
 ###
 
@@ -15,22 +16,23 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/arji-jethin-naga-sai-eswar-345138278/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/arji-jethin-naga-sai-eswar-345138278/" target="_blank" style="display: inline-block; margin: 0;">
+    <img style="border-radius: 25vh;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="60" alt="linkedin logo" />
   </a>
-  <a href="https://www.instagram.com/eswararji07/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="https://www.instagram.com/eswararji07/" target="_blank" style="display: inline-block; margin: 0;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="60" alt="instagram logo" />
   </a>
-  <a href="https://www.youtube.com/@mrphoenix2518" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <a href="https://www.youtube.com/@mrphoenix2518" target="_blank" style="display: inline-block; margin: 0;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="40" width="60" alt="youtube logo" />
   </a>
-  <a href="https://x.com/ArjiJethin51993" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  <a href="https://x.com/ArjiJethin51993" target="_blank" style="display: inline-block; margin: 0;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="40" width="60" alt="twitter logo" />
   </a>
-  <a href="mailto:arjijethin.ac2207@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="mailto:arjijethin.ac2207@gmail.com" target="_blank" style="display: inline-block; margin: 0;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="40" width="60" alt="gmail logo" />
   </a>
 </div>
+
 
 ###
 
@@ -77,13 +79,15 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArjiJethin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img  src="https://miro.medium.com/v2/resize:fit:996/1*2X4kX8wkfbtBFu9Zack_IA.gif" height=180>
-  <img src="https://streak-stats.demolab.com?user=ArjiJethin&locale=en&mode=daily&theme=material-palenight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=arjijethin&show_icons=true&theme=ambient_gradient&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&locale=en&hide_border=false" height="200" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=ArjiJethin&locale=en&mode=daily&theme=ambient_gradient&hide_border=false&border_radius=5" height="200" alt="streak graph"  />
+  <br/>
   <a href="https://github-readme-stats.vercel.app/api/top-langs?username=ArjiJethin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=material-palenight&hide_border=false" target="_blank" title="Top Used Languages">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArjiJethin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=material-palenight&hide_border=false" height="150" alt="languages graph" />
   </a>  
-  
+</div>
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjijethin&layout=donut&theme=ambient_gradient&locale=en&hide_title=false&langs_count=12&hide_border=false" height="250" width="" alt="languages graph" />
+<img align="center" src="https://miro.medium.com/v2/resize:fit:996/1*2X4kX8wkfbtBFu9Zack_IA.gif" height=250> 
 </div>
 
 ###
@@ -95,7 +99,7 @@
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ArjiJethin&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=ArjiJethin&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
 
 <br clear="both">
 
