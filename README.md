@@ -83,14 +83,12 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=arjijethin&show_icons=true&theme=ambient_gradient&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&locale=en&hide_border=false" height="200" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=ArjiJethin&locale=en&mode=daily&theme=ambient_gradient&hide_border=false&border_radius=5" height="200" alt="streak graph"  />
-  <br/>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs?username=ArjiJethin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=material-palenight&hide_border=false" target="_blank" title="Top Used Languages">
-  </a>  
+  <img src="https://github-readme-stats.vercel.app/api?username=arjijethin&theme=radical&show_icons=true" height="200" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=ArjiJethin&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="200" alt="streak graph"  />
+  <br/> 
 </div>
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjijethin&layout=donut&theme=ambient_gradient&locale=en&hide_title=false&langs_count=12&hide_border=false" height="250" width="" alt="languages graph" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjijethin&layout=donut&theme=radical&locale=en&hide_title=false&langs_count=12&hide_border=false" height="250" width="" alt="languages graph" />
 <img align="center" src="https://miro.medium.com/v2/resize:fit:996/1*2X4kX8wkfbtBFu9Zack_IA.gif" height=250> 
 </div>
 
@@ -103,7 +101,7 @@
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ArjiJethin&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=ArjiJethin&limit=5&theme=aura&combine_all_yearly_contributions=true)
 
 <br clear="both">
 
