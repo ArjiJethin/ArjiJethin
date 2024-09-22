@@ -182,7 +182,7 @@
 <br clear="both">
 
 <img align="left" src="https://api.visitorbadge.io/api/VisitorHit?user=ArjiJethin&repo=github-visitors-badge&countColor=%237B1E7A"  />
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ArjiJethin.ArjiJethin&left_color=darkcyan&left_text=Profile%20Views" height="5px"  />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ArjiJethin.ArjiJethin&left_color=darkcyan&left_text=Profile%20Views" height="3px"  />
 
 <br/>
 <br/>
