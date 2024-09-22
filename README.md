@@ -1,5 +1,5 @@
 <div align="center">
-<img align="center" src="https://getwallpapers.com/wallpaper/full/1/c/0/15024.jpg" alt="Cover"  />
+<img align="center" src="https://wallpaperaccess.com/full/869923.gif" alt="Cover"  />
 <div/>
 
 <h1 align="center"><b>Bonjour, I'm Arji Jethin <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" height="35px"></b></h1>
