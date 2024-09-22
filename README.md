@@ -136,6 +136,7 @@
 <br clear="both">
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ArjiJethin.ArjiJethin&left_color=darkcyan&left_text=Profile%20Views"  />
+<img align="left" src="https://api.visitorbadge.io/api/VisitorHit?user=ArjiJethin&repo=github-visitors-badge&countColor=%237B1E7A"  />
 
 ###
 <a href="https://youtu.be/dQw4w9WgXcQ?si=hLXYXbSuJlLEFMHG" target="_blank" title="hehe :)" rel="noopener noreferrer">
