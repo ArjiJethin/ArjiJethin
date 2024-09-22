@@ -2,20 +2,60 @@
 <img align="center" src="https://getwallpapers.com/wallpaper/full/1/c/0/15024.jpg" alt="Cover"  />
 <div/>
 
-<h1 align="center">Bonjour 👋, I'm Arji Jethin</h1>
-
-
-###
+<h1 align="center"><b>Bonjour, I'm Arji Jethin <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" height="35px"></b></h1>
 <h3 align="center">A Coding Enthusiast, currently a Universtiy Student</h3>
-<h3 align="left">💫 About Me:</h3>
+<h3 align="left">
+    <img
+      src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif"
+      height="30px"
+    />
+    ‎ About Me
+  </h3>
 
 ###
 
-<h4 align="left">➤‎ ‎ 🔭 I’m currently Sophomore student at Dayananda Sagar University<br>➤‎ ‎ 🌱‎ I’m currently learning HTML, CSS, JavaScript, JAVA, C, C++<br>➤‎ ‎ 📫 How to reach me: arjijethin.ac2207@gmail.com<br>➤ ‎ ⚡ Fun fact, I think I am Funny :)</h4>
+<p align="left">
+    ➤
+      <img
+        src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png"
+        height="20px"
+      />
+      I’m currently Sophomore student at Dayananda Sagar University <br />➤
+      <img
+        src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"
+        height="20px"
+      />
+      Interested in SDE, FSD, UI/UX, VR<br />➤
+      <img
+        src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"
+        height="20px"
+      />
+      I’m currently learning HTML, CSS, JavaScript, JAVA, C, C++<br />➤
+      <img
+        src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png"
+        height="20px"
+      />
+      Fun fact, I think I am Funny :) <br />
+      ➤
+      <img
+        src="https://user-images.githubusercontent.com/74038190/226127927-3feb953e-cc01-482e-b732-311b2907991f.gif"
+        height="20px"
+      />
+      How to reach me: 
+      <a href="mailto:arjijethin.ac0705@gmail.com" target="_blank">
+        arjijethin.ac2207@gmail.com
+      </a>
+    </b>
+  </p>
+
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" height="200px" >
 
 ###
 
-<h2 align="left">🌐 Socials:</h2>
+<h2 align="left"><img
+      src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif"
+      height="30px"
+    /> ‎ Socials:</h2>
 
 ###
 
@@ -49,7 +89,10 @@
 
 ###
 
-<h2 align="left">💻 Tech Stack:</h2>
+<h2 align="left"><img
+      src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
+      height="30px"
+    /> ‎ Tech Stack:</h2>
 
 ###
 
@@ -99,7 +142,10 @@
 
 ###
 
-<h2 align="left">📊 GitHub Stats:</h2>
+<h2 align="left"><img
+      src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"
+      height="30px"
+    />‎  GitHub Stats:</h2>
 
 ###
 
