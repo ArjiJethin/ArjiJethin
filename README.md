@@ -134,12 +134,12 @@
   </a>
     <img width="6" />
   <a
-    href="https://x.com/ArjiJethin51993"
+    href=""
     target="_blank"
     style="display: inline-block; margin: 0"
   >
     <img
-      src=""
+      src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif"
       height="50"
       alt="Discord logo"
     />
