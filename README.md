@@ -60,29 +60,89 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/arji-jethin-naga-sai-eswar-345138278/" target="_blank" style="display: inline-block; margin: 0;">
-    <img style="border-radius: 25vh;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="60" alt="linkedin logo" />
+  <a
+    href="https://www.linkedin.com/in/arji-jethin-naga-sai-eswar-345138278/"
+    target="_blank"
+    style="display: inline-block; margin: 0"
+  >
+    <img
+      src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"
+      height="50"
+      alt="linkedin logo"
+    />
   </a>
-  <a href="https://www.instagram.com/eswararji07/" target="_blank" style="display: inline-block; margin: 0;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="60" alt="instagram logo" />
+  <a href="https://www.instagram.com/eswararji07/"
+    target="_blank"
+    style="display: inline-block; margin: 0">
+    <img
+      src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif"
+      height="50"
+      alt="instagram logo"
+    />
   </a>
-  <a href="https://www.youtube.com/@mrphoenix2518" target="_blank" style="display: inline-block; margin: 0;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="40" width="60" alt="youtube logo" />
+  <a
+    href="https://www.youtube.com/@mrphoenix2518"
+    target="_blank"
+    style="display: inline-block; margin: 0"
+  >
+    <img
+      src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif"
+      height="50"
+      alt="youtube logo"
+    />
   </a>
-  <a href="https://x.com/ArjiJethin51993" target="_blank" style="display: inline-block; margin: 0;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" width="60" alt="twitter logo" />
+  <a
+    href="https://x.com/ArjiJethin51993"
+    target="_blank"
+    style="display: inline-block; margin: 0"
+  >
+    <img
+      src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif"
+      height="50"
+      alt="Twitter logo"
+    />
   </a>
-  <a href="mailto:arjijethin.ac2207@gmail.com" target="_blank" style="display: inline-block; margin: 0;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="35" width="60" alt="gmail logo" />
+      <img width="6" />
+  <a
+    href="mailto:arjijethin.ac2207@gmail.com"
+    target="_blank"
+    style="display: inline-block; margin: 0"
+  >
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"
+      height="40"
+      alt="youtube logo"
+    />
   </a>
-  <a href="" target="_blank" style="display: inline-block; margin: 0;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
+  <img width="6" />
+  <a href="" target="_blank" style="display: inline-block; margin: 0"></a>
+    <img
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg"
+      width="52"
+      height="40"
+      alt="codepen logo"
+    />
   </a>
-  <a href="" target="_blank" style="display: inline-block; margin: 0;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
+  <img width="6" />
+  <a href="https://www.hackerrank.com/profile/eng23cs0267" target="_blank" style="display: inline-block; margin: 0">
+    <img
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg"
+      width="52"
+      height="40"
+      alt="hackerrank logo"
+    />
   </a>
-  <a href="" target="_blank" style="display: inline-block; margin: 0;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+    <img width="6" />
+  <a
+    href="https://x.com/ArjiJethin51993"
+    target="_blank"
+    style="display: inline-block; margin: 0"
+  >
+    <img
+      src=""
+      height="50"
+      alt="Discord logo"
+    />
   </a>
 </div>
 
@@ -97,47 +157,135 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
+  height="40"
+  alt="javascript logo"
+/>
+<img width="12" />
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+  height="40"
+  alt="anaconda logo"
+/>
+<img width="12" />
+  <img
+    src="https://private-user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjczMzQ4MDEsIm5iZiI6MTcyNzMzNDUwMSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjYtMjlmZDYyODYtNGU3Yi00ZDZjLTgxOGYtYzQ3NjVkNWUzOWE5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTI2VDA3MDgyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVlYTk2YjRiYzgwZjQxODcyOWQwMzI0YjQyZTU5MWFkNjA0NzVkYTE5Mzc4NGQ5NDQ3NTA0YjRhYWY2MDA4MGImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.OJir5Zkq5hvYDkHKdZnbJk9u3MIU8hFE6uixlIWn42s"
+    height="40"
+    alt="html5 logo"
+  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img
+    src="https://private-user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjczMzQ4MDEsIm5iZiI6MTcyNzMzNDUwMSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjgtNjdmNDc3ZWQtNjYyNC00MmRhLTk5ZjAtMWE3YjFhMTZlZWNiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTI2VDA3MDgyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFkZmFjNGUwZjUwOTdmM2MyYTUyZGQzZTJjNWQ3Nzg2MmU2MWIwNWYyZjVhNzEzNTA3NWU4NDlmYzY5ZjEyYzgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.AUSC320RA4o5ZedghO1jO72rXbMpWUTzTDIIomh9KeA"
+    height="40"
+    alt="css3 logo"
+  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img
+    src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif"
+    height="40"
+    alt="javascript logo"
+  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg"
+    height="40"
+    alt="anaconda logo"
+  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"
+    height="40"
+    alt="arduino logo"
+  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img
+    src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif"
+    height="40"
+    alt="bootstrap logo"
+  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"
+    height="40"
+    alt="canva logo"
+  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"
+    height="40"
+    alt="chrome logo"
+  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img
+    src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif"
+    height="30"
+    alt="git logo"
+  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"
+    height="40"
+    alt="gitlab logo"
+  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img
+    src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"
+    height="40"
+    alt="github logo"
+  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
+    height="40"
+    alt="google logo"
+  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
+  <img
+    src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif"
+    height="30"
+  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio logo"
+    height="30"
+  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="visualstudio logo"
+    height="35"
+  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" height="40" alt="phoenix logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" height="35" alt="phoenix logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"
+    height="40"
+    alt="java logo"
+  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"
+    height="40"
+    alt="jupyter logo"
+  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="35" alt="windows8 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img
+    src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"
+    height="40"
+    alt="linkedin logo"
+  />
+  <img width="12" />
+  <img
+    src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif"
+    height="30"
+    alt="linkedin logo"
+  />
+  <img width="12" />
 </div>
 
 ###
