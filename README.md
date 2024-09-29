@@ -134,7 +134,7 @@
   </a>
     <img width="6" />
   <a
-    href=""
+    href="https://discordapp.com/users/850585839053307924"
     target="_blank"
     style="display: inline-block; margin: 0"
   >
