@@ -115,7 +115,7 @@
     />
   </a>
   <img width="6" />
-  <a href="https://codepen.io/ARJI-JETHIN" target="_blank" style="display: inline-block; margin: 0"></a>
+  <a href="https://codepen.io/ARJI-JETHIN" target="_blank" style="display: inline-block; margin: 0">
     <img
       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg"
       width="52"
