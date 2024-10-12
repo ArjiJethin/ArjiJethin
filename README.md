@@ -335,6 +335,14 @@
 
 ###
 
+<br clear="both">
+
+<img src="./profile-3d-contrib/profile-green-animate.svg" alt="Snake animation" />
+
+###
+
+###
+
 <h1 align="left"></h1>
 
 ###
