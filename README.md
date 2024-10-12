@@ -337,7 +337,7 @@
 
 <br clear="both">
 
-<img src="./profile-3d-contrib/profile-green-animate.svg" alt="Snake animation" />
+<img src="./profile-3d-contrib/profile-gitblock.svg" alt="Snake animation" />
 
 ###
 
