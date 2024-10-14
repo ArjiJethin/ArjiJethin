@@ -309,7 +309,7 @@
 ###
 
 
-<h3>
+<h2>
 <img
       src="https://user-images.githubusercontent.com/74038190/216655818-2e7b9a31-49bf-4744-85a8-db8a2577c45c.gif"
       height="30px"
@@ -319,12 +319,12 @@
       height=""
     />
 
-<h3>
+<h2>
     
 <img
       src="https://camo.githubusercontent.com/748433fbf833d18f543ad4bb6d8c8c4f7f340c7fe8b9706df131a525049f0c8c/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966"
       height="30px"
-    /> ‎ Top Contributed Repo</h3>
+    /> ‎ Top Contributed Repo</h2>
     <img
       src="https://github-contributor-stats.vercel.app/api?username=ArjiJethin&limit=5&theme=aura&combine_all_yearly_contributions=true"
       height=""
