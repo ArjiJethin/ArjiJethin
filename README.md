@@ -4,7 +4,7 @@
   
 <h1 align="center"><b>Bonjour,  I'm Arji Jethin <img  src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" height="35px"></b> </h1>
 <h3 align="center">A Coding Enthusiast, currently a Universtiy Student</h3> 
-<h3 align="left">   
+<h3 align="left">    
     <img
       src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif"   
       height="30px" 
