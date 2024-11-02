@@ -353,7 +353,6 @@
 <img align="left" src="https://i.kym-cdn.com/photos/images/original/000/890/053/f87.gif" height=20>
 </a>
 
-### https://avatars.githubusercontent.com/u/180202573?v=3 
-### Git-UserID: 180202573
-
-### --- made by Arji Jethin Naga Sai Eswar
+[comment]: <> (https://avatars.githubusercontent.com/u/180202573?v=3)
+[comment]: <> (Git-UserID: 180202573)
+[comment]: <> (--- made by Arji Jethin Naga Sai Eswar)
