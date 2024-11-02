@@ -334,15 +334,9 @@
 
 <img src="https://raw.githubusercontent.com/ArjiJethin/ArjiJethin/output/snake.svg" alt="Snake animation" />
 
-<br clear="both">
-
 <img src="./profile-3d-contrib/profile-night-view.svg" alt="Snake animation" height="600px" />
 
-
 <h1 align="left"></h1>
-
-
-<br clear="both">
 
 <img align="left" src="https://api.visitorbadge.io/api/VisitorHit?user=ArjiJethin&repo=github-visitors-badge&countColor=%237B1E7A"  />
 
