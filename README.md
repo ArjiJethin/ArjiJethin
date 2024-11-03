@@ -19,7 +19,7 @@
       <img
         src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png"
         height="20px"
-      /> 
+      />  
       I’m currently Sophomore student at Dayananda Sagar University <br />➤
       <img
         src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"
