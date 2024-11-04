@@ -329,7 +329,7 @@
       src="https://github-contributor-stats.vercel.app/api?username=ArjiJethin&limit=5&theme=aura&combine_all_yearly_contributions=true"
     height="250px"
     />
-    <img align="center" src="https://wallpaperaccess.com/full/2471393.gif" height="250px" alt="Cover"  />  
+    <img align="center" src="https://wallpaperaccess.com/full/2471393.gif" height="200px" alt="Cover"  />  
    </div>
 <br clear="both">
 
