@@ -48,7 +48,7 @@
     </b>
   </p>
 
-  <img src="https://wallpaperaccess.com/full/2641049.gif" height="350px" >
+  <img src="https://wallpaperaccess.com/full/2641049.gif" height="250px" >
 
 ###
 
