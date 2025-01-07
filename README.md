@@ -50,7 +50,7 @@
     </b>
   </p>
 
-  <img src="https://c.tenor.com/SrFYDLcaklIAAAAd/tenor.gif" height="350px" >
+  <img src="https://c.tenor.com/SrFYDLcaklIAAAAd/tenor.gif" width="500px" >
 
 ###
 
