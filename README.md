@@ -1,8 +1,10 @@
 <div align="center">   
-<img align="center" src="https://wallpaperaccess.com/full/869923.gif" alt="Cover"  />     
+<img align="center" src="https://wallpaperaccess.com/full/869923.gif" alt="Cover"  />    
+<p>‎ </p>
 <div/ >    
-  
-<h1 align="center"><b>Bonjour,  I'm Arji Jethin <img  src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" height="35px"></b> </h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=50&color=FFFFFF&center=true&vCenter=true&width=435&height=35&lines=%E2%80%8E+%E2%80%8E+Hello!+%F0%9F%98%8A%2C+I+am+Arji+Jethin;%E2%80%8E+Bonjour+%E2%98%95%2C+I+am+Arji+Jethin;Hola!+%F0%9F%8C%9E%2C+I+am+Arji+Jethin;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+%F0%9F%99%8F%2C+I+am+Arji+Jethin;%E6%82%A8%E5%A5%BD!+%F0%9F%90%89%2C+I+am+Arji+Jethin;Salve+%F0%9F%8D%9D%2C+I+am+Arji+Jethin;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF!+%F0%9F%8C%B8%2C+I+am+Arji+Jethin;Ol%C3%A1+%F0%9F%8C%8A%2C+I+am+Arji+Jethin;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+%F0%9F%8E%8E%2C+I+am+Arji+Jethin;%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%F0%9F%8F%B0%2C+I+am+Arji+Jethin" alt="Typing SVG" /></a>
+<img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" height="35px" />
+<hr/>
 <h3 align="center">A Coding Enthusiast💻, currently a University Student🎓</h3> 
 <h3 align="left">    
     <img
@@ -298,12 +300,12 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=arjijethin&theme=radical&show_icons=true&rank_icon=github" height="170vh" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com/?user=ArjiJethin&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="170vh" alt="streak graph"  />
+  <a href="https://github.com/ArjiJethin?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=arjijethin&theme=radical&show_icons=true&rank_icon=github" height="170vh" alt="stats graph"  /></a>
+  <a href="https://github.com/ArjiJethin?tab=repositories"><img src="https://streak-stats.demolab.com?user=ArjiJethin&theme=radical" height="170vh" alt="GitHub Streak" /></a>
 </div>
   <div align="left">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjijethin&layout=donut&theme=radical&locale=en&hide_title=false&langs_count=12&hide_border=false" height="220vh" width="" alt="languages graph" />
-<img align="center" src="https://arjijethin.github.io/Web/Data/Images/mg.gif" height=220vh> 
+<a href="https://github.com/ArjiJethin?tab=repositories"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjijethin&layout=donut&theme=radical&locale=en&hide_title=false&langs_count=12&hide_border=false" height="220vh" width="" alt="languages graph" /></a>
+<a href="https://shattereddisk.github.io/rickroll/rickroll.mp4"><img align="center" src="https://arjijethin.github.io/Web/Data/Images/mg.gif" height=220vh> </a>
 </div>
 
 ###
@@ -344,7 +346,7 @@
 <br/>
 <br/>
 
-<a href="https://youtu.be/dQw4w9WgXcQ?si=hLXYXbSuJlLEFMHG" target="_blank" title="hehe :)" rel="noopener noreferrer">
+<a href="https://shattereddisk.github.io/rickroll/rickroll.mp4" target="_blank" title="hehe :)" rel="noopener noreferrer">
 <img align="left" src="https://i.kym-cdn.com/photos/images/original/000/890/053/f87.gif" height=20>
 </a>
 
