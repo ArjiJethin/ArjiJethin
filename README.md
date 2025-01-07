@@ -49,10 +49,10 @@
       </a>
     </b>
   </p>
+<div align="center">
+  <img src="https://c.tenor.com/SrFYDLcaklIAAAAd/tenor.gif"  width="500px" >
+</div>
 
-  <img src="https://c.tenor.com/SrFYDLcaklIAAAAd/tenor.gif" width="500px" >
-
-###
 
 <h2 align="left"><img
       src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif"
