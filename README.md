@@ -27,12 +27,12 @@
         src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"
         height="20px"
       />
-      Interested in SDE, FSD, UI/UX, VR<br />➤
+      Interested in Full Stack, Cyber, UI/UX, Networking<br />➤
       <img
         src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"
         height="20px"
       />
-      I’m currently learning HTML, CSS, JavaScript, JAVA, C, C++<br />➤
+      I’m currently learning React, JavaScript, Java, Express <br />➤
       <img
         src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png"
         height="20px"
