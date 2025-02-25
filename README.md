@@ -51,7 +51,7 @@
   </p>
 <div align="center">
   <img src="https://c.tenor.com/SrFYDLcaklIAAAAd/tenor.gif"  width="500px" >
-
+  <img width="20px" />
   <a href="https://app.daily.dev/eswararji"><img src="https://api.daily.dev/devcards/v2/PHD6N4CwredNAtzRneFzO.png?r=17k" width="250px" alt="Eswar Arji's Dev Card"/></a>
 </div>
 
