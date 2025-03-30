@@ -341,7 +341,7 @@
     height="250px"
     />
     <img align="center" src="https://wallpaperaccess.com/full/2471393.gif" height="200px" alt="Cover"  />  
-   </div>
+   </div> 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/ArjiJethin/ArjiJethin/output/snake.svg" alt="Snake animation" />
