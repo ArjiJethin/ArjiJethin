@@ -93,7 +93,7 @@
       src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif"
       height="50"
       alt="youtube logo"
-    />
+    /> 
   </a>
   <a
     href="https://x.com/ArjiJethin51993"
