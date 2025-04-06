@@ -352,7 +352,7 @@
 
 <img align="left" src="https://api.visitorbadge.io/api/VisitorHit?user=ArjiJethin&repo=github-visitors-badge&countColor=%237B1E7A"  />
 
-<br/>
+<br/> 
 <br/>
 
 <a href="https://shattereddisk.github.io/rickroll/rickroll.mp4" target="_blank" title="hehe :)" rel="noopener noreferrer">
