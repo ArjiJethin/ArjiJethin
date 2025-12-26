@@ -309,11 +309,11 @@
 ###
 
 <div align="left">
-  <a href="https://github.com/ArjiJethin?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=arjijethin&theme=radical&show_icons=true&rank_icon=github" height="170vh" alt="stats graph"  /></a>
-  <a href="https://github.com/ArjiJethin?tab=repositories"><img src="https://github-readme-streak-stats-blond-kappa.vercel.app?user=ArjiJethin&theme=radical" height="170vh" alt="API Issue ¯⁠\⁠_⁠(⁠ツ⁠)⁠_⁠/⁠¯" /></a>
+  <a href="https://github.com/ArjiJethin?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=arjijethin&theme=tokyonight&show_icons=true&rank_icon=github" height="170vh" alt="stats graph"  /></a>
+  <a href="https://github.com/ArjiJethin?tab=repositories"><img src="https://streak-stats.demolab.com?user=ArjiJethin&theme=tokyonight" height="170vh" alt="API Issue ¯⁠\⁠_⁠(⁠ツ⁠)⁠_⁠/⁠¯" /></a>
 </div>
   <div align="left">
-<a href="https://github.com/ArjiJethin?tab=repositories"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjijethin&layout=donut&theme=radical&locale=en&hide_title=false&langs_count=12&hide_border=false" height="220vh" width="" alt="languages graph" /></a>
+<a href="https://github.com/ArjiJethin?tab=repositories"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjijethin&layout=donut&theme=tokyonight&locale=en&hide_title=false&langs_count=12&hide_border=false" height="220vh" width="" alt="languages graph" /></a>
 <a href="https://shattereddisk.github.io/rickroll/rickroll.mp4"><img align="center" src="https://arjijethin.github.io/Web/Data/Images/mg.gif" height=220vh> </a>
 </div>
 
