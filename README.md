@@ -15,16 +15,16 @@
 eswar@github:~$ neofetch
 
              /\        User:      Eswar Arji
-            /  \       Role:      Full Stack Developer
+            /  \       Role:      AI/ML Developer
            / /\ \      Location:  Bengaluru, India 🇮🇳
           / ____ \     Education: CSE @ Dayananda Sagar University
          /_/    \_\
       
                       Skills:     React | Java | Python | JavaScript
-                      Focus:      Full Stack | Cybersecurity | UI/UX
-                      Learning:   React | Express
-                      Fun Fact:   I think I am funny 😅
-                      Email:      arjijethin.ac2207@gmail.com
+                      Focus:      DevOps | Cybersecurity | UI/UX
+                      Learning:   Flutter | MLOPS
+                      Fun Fact:   Me Funny AF 🤪
+                      Email:      arjijethin.ac0705@gmail.com
 ```
 
 <div align="center">
@@ -75,7 +75,7 @@ Languages:
 Frameworks:
   - React
   - Next.js
-  - Express.js
+  - Flutter
 </pre>
 
 <img src="https://skillicons.dev/icons?i=js,ts,java,react,nextjs,express"/>
@@ -124,7 +124,7 @@ Programming:
   - C
 
 Core Areas:
-  - Full Stack Development
+  - App & Full Stack Development
   - AI / ML
   - Cloud Computing
 
