@@ -14,17 +14,17 @@
 ```bash
 eswar@github:~$ neofetch
 
-       /\        User:      Eswar Arji
-      /  \       Role:      Full Stack Developer
-     / /\ \      Location:  Bengaluru, India 🇮🇳
-    / ____ \     Education: CSE @ Dayananda Sagar University
-   /_/    \_\
-
-                Skills:     React | Java | Python | JavaScript
-                Focus:      Full Stack | Cybersecurity | UI/UX
-                Learning:   React | Express
-                Fun Fact:   I think I am funny 😅
-                Email:      arjijethin.ac2207@gmail.com
+             /\        User:      Eswar Arji
+            /  \       Role:      Full Stack Developer
+           / /\ \      Location:  Bengaluru, India 🇮🇳
+          / ____ \     Education: CSE @ Dayananda Sagar University
+         /_/    \_\
+      
+                      Skills:     React | Java | Python | JavaScript
+                      Focus:      Full Stack | Cybersecurity | UI/UX
+                      Learning:   React | Express
+                      Fun Fact:   I think I am funny 😅
+                      Email:      arjijethin.ac2207@gmail.com
 ```
 
 <div align="center">
@@ -32,7 +32,7 @@ eswar@github:~$ neofetch
   &nbsp;&nbsp;&nbsp;  
 </div>
 
----
+
 ## <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" height="25px"/> Tech Stack
 
 <table width="100%" cellpadding="14">
@@ -169,9 +169,9 @@ Other Skills:
 <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" />
 </div>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/ArjiJethin/ArjiJethin/output/snake.svg" width="100%" />
-</div>
+<br>
+
+![My GitHub Game](game.gif)
 
 
 ### <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" height="25px" /> &nbsp; Let's Connect
@@ -207,10 +207,6 @@ Other Skills:
 <h1 align="left"></h1>
 
 <img align="left" src="https://api.visitorbadge.io/api/VisitorHit?user=ArjiJethin&repo=github-visitors-badge&countColor=%237B1E7A"  />
-
-<br/> 
-<br/>
-
 <a href="https://shattereddisk.github.io/rickroll/rickroll.mp4" target="_blank" title="hehe :)" rel="noopener noreferrer">
 <img align="left" src="https://i.kym-cdn.com/photos/images/original/000/890/053/f87.gif" height=20>
 </a>
