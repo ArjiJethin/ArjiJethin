@@ -179,7 +179,7 @@ Other Skills:
 <div align="center">
 
 <a href="https://www.linkedin.com/in/arji-jethin-naga-sai-eswar-345138278/">
-<img src="https://img.icons8.com/?size=160&id=x5tasEH8x4uG&format=png" height="50"/>
+<img src="https://img.icons8.com/?size=160&id=QmvaEKzz9PMF&format=png" height="50"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -194,12 +194,12 @@ Other Skills:
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/eswararji07/">
-<img src="https://img.icons8.com/?size=160&id=NdqqxfTuEK6C&format=png" height="50"/>
+<img src="https://img.icons8.com/?size=512w&id=qL8qs3anc1fW&format=png" height="50"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.youtube.com/@mrphoenix2518">
-<img src="https://img.icons8.com/?size=512&id=XnsQJWiCOaJw&format=png" height="50"/>
+<img src="https://img.icons8.com/?size=512w&id=2Sisn3cZ0AKc&format=png" height="50"/>
 </a>
 
 </div>
