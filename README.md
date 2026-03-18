@@ -146,8 +146,7 @@ Other Skills:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ArjiJethin&theme=tokyonight&hide_border=false" width="430"/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArjiJethin&theme=tokyonight&hide_border=true" width="430"/>
 <br>
 
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arjijethin&theme=tokyonight"/>
