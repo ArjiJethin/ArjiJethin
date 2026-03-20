@@ -197,7 +197,7 @@ Other Skills:
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.youtube.com/@mrphoenix2518">
+<a href="https://www.youtube.com/@ARJIJETHIN">
 <img src="https://img.icons8.com/?size=512w&id=2Sisn3cZ0AKc&format=png" height="50"/>
 </a>
 
