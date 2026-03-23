@@ -20,11 +20,11 @@ eswar@github:~$ neofetch
           / ____ \           Education: CSE @ Dayananda Sagar University
          /_/    \_\          
                               
-                             Skills:     React | Java | Python | JavaScript
-                             Focus:      DevOps | Cybersecurity | UI/UX
-                             Learning:   Flutter | MLOPS
-                             Fun Fact:   Me Funny AF 🤪
-                             Email:      arjijethin.ac0705@gmail.com
+                          Skills:     React | Java | Python | JavaScript
+                          Focus:      DevOps | Cybersecurity | UI/UX
+                          Learning:   Flutter | MLOPS
+                          Fun Fact:   Me Funny AF 🤪
+                          Email:      arjijethin.ac0705@gmail.com
 ```
 
 <div align="center">
