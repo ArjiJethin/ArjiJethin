@@ -28,7 +28,7 @@ eswar@github:~$ neofetch
 ```
 
 <div align="center">
-  <img src="https://c.tenor.com/SrFYDLcaklIAAAAd/tenor.gif" width="300px"/>
+  <img src="https://wallpaperaccess.com/full/2471367.gif" width="300px"/>
   &nbsp;&nbsp;&nbsp;  
 </div>
 
